@@ -11,3 +11,13 @@ Pillow==9.3.0
 torch==1.11.0
 torchvision==0.12.0
 ipywidgets
+fastai==1.0.60
+tensorboardX>=1.6
+ffmpeg-python
+yt-dlp
+opencv-python>=4.2.0.32
+Pillow
+tornado
+imgaug==0.2.6
+gardio
+torch
