@@ -6,3 +6,5 @@ opencv-python>=4.2.0.32
 Pillow
 tornado
 imgaug==0.2.6
+gardio
+torch
